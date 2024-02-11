@@ -6,4 +6,4 @@ I used 3 types of Clustering - K-Means, Agglomerative (Hierarchical) and K-Means
 
 Result table:
 
-![Uploading Capture.PNG…]()
+![Capture](https://github.com/akulvaishnavi/Assignment4_Clustering/assets/98584106/1936205f-7e83-4ff7-b2e9-f73df16d5f15)
